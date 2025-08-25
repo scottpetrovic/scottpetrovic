@@ -1,7 +1,7 @@
 # Hi. Thanks for stopping by.
 
-## Web Developer and Designer
-- I'm based in the USA
+## Designer & Developer
+- Currently living in Boston, MA USA
 
 ## My GitHub Stats
 
